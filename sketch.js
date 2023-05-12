@@ -215,6 +215,7 @@ function reset(){
   obstaclesGroup.destroyEach();
   shrubsGroup.destroyEach();
 
+  score = 0;
 }
 
 /*function reset(){
